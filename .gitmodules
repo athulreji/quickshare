@@ -1,0 +1,3 @@
+[submodule "quickshare-backend"]
+	path = quickshare-backend
+	url = https://github.com/athulreji/quickshare-backend.git
